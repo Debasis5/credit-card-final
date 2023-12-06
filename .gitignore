@@ -89,3 +89,6 @@ target/
 .mypy_cache/
 /data
 /tmp
+/model.pkl
+/.dataprocessed python
+/data2
