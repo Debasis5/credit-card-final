@@ -92,3 +92,4 @@ target/
 /model.pkl
 /.dataprocessed python
 /data2
+/models
