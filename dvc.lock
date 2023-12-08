@@ -33,11 +33,6 @@ stages:
       hash: md5
       md5: 5af92edffd22804f29af18c1efe94bbb
       size: 1362
-    params:
-      params.yaml:
-        train_model.max_depth: 10
-        train_model.n_estimators: 10
-        train_model.seed: 2023
     outs:
     - path: .\models\
       hash: md5
